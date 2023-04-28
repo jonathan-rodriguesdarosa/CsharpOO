@@ -7,6 +7,6 @@ class aula04 {
 
      void teste() {
         int num = 0;
-        Console.WriteLine(num)
+        Console.WriteLine(num);
      }
 }
